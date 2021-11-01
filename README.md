@@ -1,8 +1,8 @@
 # MLGNN
 
-Multi-level Graph Neural Network for Drug-Drug Interaction Prediction
+Multi-level Graph Neural Network for Drug-Drug Interaction Prediction.
 
-You can get the drug external multimodal features from [DrugBank](https://go.drugbank.com/drugs)
+You can get the drug external multimodal features from [DrugBank](https://go.drugbank.com/drugs).
 
 To run the code, you need the following dependencies:
 
