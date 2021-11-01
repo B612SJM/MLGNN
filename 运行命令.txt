@@ -1,0 +1,6 @@
+python main_deep.py --save_dir=checkpoints/DeepDDI --data_path=dataProcess/DeepDDI_train.csv --separate_val_path=dataProcess/DeepDDI_valid.csv --separate_test_path=dataProcess/DeepDDI_test.csv --vocab_path=dataProcess/drug_list_deep.csv
+
+
+python main_miner.py --save_dir=checkpoints/ChChMiner --data_path=dataProcess/ChChMiner_train.csv --separate_val_path=dataProcess/ChChMiner_valid.csv --separate_test_path=dataProcess/ChChMiner_test.csv --vocab_path=dataProcess/drug_list_miner.csv
+
+python main_zhang.py --save_dir=checkpoints/ZhangDDI --data_path=dataProcess/ZhangDDI_train.csv --separate_val_path=dataProcess/ZhangDDI_valid.csv --separate_test_path=dataProcess/ZhangDDI_test.csv --vocab_path=dataProcess/drug_list_zhang.csv
