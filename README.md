@@ -1,6 +1,6 @@
 # MLGNN
 
-Multi-level Graph Neural Network for Drug-Drug Interaction Prediction.
+Multi-level feature fusion for interaction prediction：A graph-based approach.
 
 You can get the drug external multimodal features from [DrugBank](https://go.drugbank.com/drugs).
 
